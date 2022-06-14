@@ -1,12 +1,21 @@
-# Retevis-RT24
+<h1 align="center">Retevis RT-24</h1>
+<h3 align="center">Configuration images, manuals, general documentation and .csv format frequency configurations.</h3>
 
-![version](https://img.shields.io/github/v/release/SamuelNetherway460/Retevis-RT24?sort=semver)
-![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Retevis-RT24)
-![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Retevis-RT24)
-![issues](https://img.shields.io/github/issues/SamuelNetherway460/Retevis-RT24)
-![downloads](https://img.shields.io/github/downloads/SamuelNetherway460/Retevis-RT24/total)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/SamuelNetherway460/Retevis-RT24">
+  <img src="https://img.shields.io/github/v/release/SamuelNetherway460/Retevis-RT24">
+  <img src="https://img.shields.io/github/release-date/SamuelNetherway460/Retevis-RT24">
+  <img src="https://img.shields.io/github/issues/SamuelNetherway460/Retevis-RT24">
+  <img src="https://img.shields.io/github/downloads/SamuelNetherway460/Retevis-RT24/total">
+</p>
 
-Repository for operation guidance, radio configuration images and other general information for the Retevis RT24 radio.
+## Description
+Repository for the Retevis RT-24 digital radio. Contains all documents relating to the radio i.e., specs, manuals, etc. There is only 1 configuration consisting of the  PMR446 (licence free) channels.
+
+## Configuration Status
+| Configuration | Last Commit | Latest Release | Release Date |
+| :---: | :---: | :---: | :---: |
+| PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Retevis-RT24/Config-PMR446) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Retevis-RT24) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Retevis-RT24) |
 
 ## Specs
 
